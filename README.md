@@ -6,6 +6,7 @@ A Pure-Rust LDAP Library.
 The `ldap` crate itself is a meta-crate only exporting symbols from `ldap_protocol`, `ldap_client`,
 `ldap_server` and `ldap_rfc4515`.
 
+[![Crate](https://img.shields.io/crates/v/ldap.svg)](https://crates.io/crates/ldap)
 [![Documentation](https://docs.rs/ldap/badge.svg)](https://docs.rs/ldap)
 
 ### ldap_protocol

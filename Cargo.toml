@@ -13,3 +13,5 @@ license = "MIT"
 
 [dependencies]
 byteorder = "0.3.13"
+futures = "0.1"
+bytes = "0.4"
